@@ -2,6 +2,7 @@
 :tada:
 
 This repository was created as a resource for folks learning how to use GitHub as a collaborative project management tool. :octocat:
+
 It was then forked by Amy Hodge during the class as an exercise.  
 
 Here are a few resources to help you right off the bat:
